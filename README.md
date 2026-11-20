@@ -214,22 +214,15 @@ streamlit run app.py
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
 
-[![Live App](https://img.shields.io/badge/🚀%20Try%20the%20Live%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
-
-🔗 **App URL:** `PASTE_YOUR_STREAMLIT_APP_LINK_HERE`
+[![Live App](https://img.shields.io/badge/🚀%20Try%20the%20Live%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://creditcardcustomersedmentation.streamlit.app/)
 
 </div>
-
-> To deploy: push this repo to GitHub → open [share.streamlit.io](https://share.streamlit.io) → **New app** → select this repo, branch `main`, main file `app.py` → **Deploy**.
 
 ---
 
 ## 🎬 Demo Video
 
 [![Watch the demo](https://img.shields.io/badge/▶%20Watch%20the%20Demo-Google%20Drive%20%2F%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](PASTE_YOUR_VIDEO_LINK_HERE)
-
-📹 5–10 min screen + face recording explaining the clustering choices, EDA findings and business interpretation.
-**File:** `Practical_Exam_YourName_GRID.mp4` · **Link:** `PASTE_YOUR_VIDEO_LINK_HERE`
 
 ---
 
