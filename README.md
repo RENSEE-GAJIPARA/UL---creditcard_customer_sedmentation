@@ -222,7 +222,7 @@ streamlit run app.py
 
 ## 🎬 Demo Video
 
-[![Watch the demo](https://img.shields.io/badge/▶%20Watch%20the%20Demo-Google%20Drive%20%2F%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](PASTE_YOUR_VIDEO_LINK_HERE)
+[![Watch the demo](https://img.shields.io/badge/▶%20Watch%20the%20Demo-Google%20Drive%20%2F%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1VxfBUSPnYMPQsytYfJFepr_w3dJSCWjS/view?usp=sharing)
 
 ---
 
